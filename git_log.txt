@@ -1,0 +1,51 @@
+commit b5b46db8cece7e6efd0be4356b0a14b7d82d1a98
+Merge: ccb4e41 85c3ebd
+Author: V <makkaandvera@gmail.com>
+Date:   Thu Sep 4 21:55:05 2025 -0700
+
+    Resolved merge conflict in index.html. Merged index-fix with main.
+
+commit 85c3ebdd330c6e4b16de98b5a514e98223da3aa4
+Author: V <makkaandvera@gmail.com>
+Date:   Thu Sep 4 21:49:39 2025 -0700
+
+    Added line about my favorite game.
+
+commit ccb4e4121d59a20aa706e1ee6c59f05e3cf55516
+Author: V <makkaandvera@gmail.com>
+Date:   Thu Sep 4 21:47:06 2025 -0700
+
+    Add line about my favorite food to index.html.
+
+commit c3f49d96f4defc1ad00fdc089781547255d29e73
+Author: V <makkaandvera@gmail.com>
+Date:   Thu Sep 4 21:42:06 2025 -0700
+
+    Create README.md file.
+
+commit 6d34c45502d6030af0152600102652aef57bd4c5
+Author: V <makkaandvera@gmail.com>
+Date:   Thu Sep 4 21:34:03 2025 -0700
+
+    Added README.md file.
+
+commit 25d58a7c8b0b385e6a10e723253485ec0f7e2f00
+Merge: 1d2bfc0 d7bc4fa
+Author: feral-miu <makkaandvera@gmail.com>
+Date:   Thu Sep 4 21:28:18 2025 -0700
+
+    Merge pull request #1 from feral-miu/info-fill
+    
+    Filled in the blanks in index.html.
+
+commit d7bc4fa95254297d7c0de2dddbdf5f025ec79e89
+Author: V <makkaandvera@gmail.com>
+Date:   Thu Sep 4 21:20:35 2025 -0700
+
+    Filled in the blanks in index.html.
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
